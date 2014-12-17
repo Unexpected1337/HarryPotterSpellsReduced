@@ -95,7 +95,7 @@ Function: Spawns a tree on the target
 Target: Block
 Configurability: None
 Effect: Explosion
-Default Cooldown: 50s
+Default Cooldown: 0s
 
 Workbench
 Function: Opens a crafting table
